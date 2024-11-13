@@ -1,0 +1,22 @@
+/* Colores y estilos de botones */
+.btn-primary {
+    background-color: #003366;
+    border: none;
+}
+.btn-success {
+    background-color: #28A745;
+    border: none;
+}
+
+/* Estilos de la navbar */
+.navbar-dark .navbar-brand, .navbar-dark .nav-link {
+    color: #FFFFFF;
+}
+
+/*Footer */
+footer {
+    background-color: #28A745;
+    margin-top: 30px;
+    bottom: 0;
+    width: 100%;
+}
